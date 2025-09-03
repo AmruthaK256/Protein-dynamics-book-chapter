@@ -16,5 +16,5 @@ This repository provides the companion materials for the book chapter “Deciphe
 
 No installations, no setup — just click below to open the notebook and start exploring directly in your browser:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/YOUR-USERNAME/Protein-dynamics-book-chapter/blob/main/download_data.ipynb](https://colab.research.google.com/drive/1c8-dyZ-FhvLC1TEML5B0HGlYSaJlQtyI?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c8-dyZ-FhvLC1TEML5B0HGlYSaJlQtyI?usp=sharing)
 
