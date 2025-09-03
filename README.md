@@ -18,3 +18,7 @@ No installations, no setup — just click below to open the notebook and start e
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c8-dyZ-FhvLC1TEML5B0HGlYSaJlQtyI?usp=sharing)
 
+
+
+✨ Explore, visualize, and learn protein dynamics interactively. Happy learning! 
+
